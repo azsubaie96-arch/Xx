@@ -1,5 +1,8 @@
 # 07 — Decisions Requiring Your Approval
 
+> **Status: APPROVED (2026-10-26)** — the owner approved all recommendations as written.
+> D7 (hosting) is still decided at the end of Phase 1; D9 (launch markets) is still open before public launch.
+
 Each decision lists a recommendation and the alternatives. The **Blocks** column
 shows which phase can't start until it's answered. Reply with, for example,
 "approve all", or "D3: self-hosted, D6: Metabase".

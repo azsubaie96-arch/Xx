@@ -3,8 +3,8 @@
 A TikTok-style vertical short-video app. Its competitive advantage is a
 **personalised recommendation engine that learns from each user's behaviour**.
 
-**Status:** design phase. No application code yet. The architecture and plan
-are awaiting approval of the decisions in [docs/07-decisions.md](docs/07-decisions.md).
+**Status:** design approved (2026-10-26). Next: Phase 0 (foundations).
+No application code yet.
 
 ## Documents
 
@@ -18,7 +18,7 @@ are awaiting approval of the decisions in [docs/07-decisions.md](docs/07-decisio
 | [06 — Implementation plan](docs/06-implementation-plan.md) | Phases 0–6 with exit checks |
 | [07 — Decisions](docs/07-decisions.md) | Choices that need owner approval |
 
-## Proposed stack (pending approval)
+## Stack
 
 Expo / React Native · Python 3.13 + FastAPI · PostgreSQL 18 · Redis ·
 managed video processing (Mux or Cloudflare Stream) · React/Vite analytics dashboard

@@ -1,6 +1,6 @@
 # 01 — Technical Architecture
 
-> Status: **PROPOSED** — awaiting approval of the decisions in [07-decisions.md](07-decisions.md).
+> Status: **APPROVED** — decisions in [07-decisions.md](07-decisions.md) approved 2026-10-26.
 > Items marked **(D#)** depend on a decision listed there.
 
 ## 1. Goals and non-goals
